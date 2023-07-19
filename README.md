@@ -12,21 +12,27 @@
       .h1 {
         font-family: 'Dancing Script', cursive;
         font-style: italic;
-        color: blue;
+        color: darkblue;
       } 
     
       .h2 {
         font-family: 'Caveat', cursive;
-        font-style: italic;
-        color: #A459D1
+        color: #ff0000
       } 
     
       .h4 {
-        font-family: 'Satisfy', cursive;
+        font-family: 'Satisfy',cursive;
+        color: rgb(114, 223, 250);
       }
 
-      ME{
-        font-family: 'Courgette', cursive;
+      #ol {
+          font-family: 'Helvetica', cursive;
+           color: rgb(0, 255, 170);
+      }
+
+      .ul{
+          font-family: 'Courgette', cursive;
+          color: royalblue;
       }
        </style>
 
@@ -63,7 +69,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wXTF9fP5zWxhPyQ5TN9miuavAxTUu5a_cw&usqp=CAU">
 
     <h4 class="h4">HAVE YOU EVER THOUGHT WHAT PROGRAMMING REALLY IS?</h4>
-    <ol id="li">
+    <ol id="ol">
         <li>Programming is the process of creating a set of instructions that tells a computer how to perform a task.</li><br>
       <li>Programming can be done using a variety of computer programming languages, such as JavaScript, Python, and C++.</li><br>
       <li>Programming refers to logical process for telling a computer which tasks to a technolto perform in order to solve problems. You can think of programming as a collaboration between humans and computers, in which humans create instructions for a computer to follow (code) in a language computers can understand.</li><br>
@@ -71,7 +77,7 @@
 
     <h4 class="h4">WOULD YOU ALSO LIKE TO START PROGRAMMING?</h4> <br>    
 
-        <ol id="li">
+        <ol id="ol">
              
         <p>Start learning programming for free with:</p><br>
 
@@ -82,7 +88,7 @@
 
        <a href="https://www.khanacademy.org/">Khan Academy</a><br>
        <a href="https://www.datacamp.com/">Data Camp</a>
-        <ol id="li">
+        <ol id="ol">
         <p>Start learning payed programming with:</p><br>
 
             <li>Coursera</li><br>
@@ -97,7 +103,7 @@
 
     <h4 class="h4">MY EXPERIANCE AND HABBITS ABOUT PROGRAMMING</h4>
 
-   <ul class="ME"> 
+   <ul class="ul"> 
     <li>Curious and creative, I am always eager to learn new things.</li> <li> I have a natural atitude for coding and enjoy the challenge of solving problems.</li>
 
     <li>I am self-motivated and always look for new ways to improve my skills.</li> <li>I am passionate about technology and excited about the future of programming.</li>
@@ -120,16 +126,14 @@
 
  <a href="https://www.youtube.com/watch?v=bd_T7EUTUhw">Video</a>
 
-
  <h4 class="h4">WHAT I WISH TO DO IN THE FUTURE?</h4>
 
- <ol id="li">
+ <ol id="ol">
        <li>I Wish To Learn (AI) Short For Artificial Intellegence To Be Able To Make Robots.</li><br>
 
        <li>I Wish To Invent Something Like Chatgpt And Bard So Others May Take Help</li>
- </ol>
+ </ol><br><br>
  <a href="https://openai.com/chatgpt">Chatgpt</a><br><br>
 
  <a href="https://bard.google.com/">Bard</a>
-
 
