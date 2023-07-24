@@ -81,11 +81,11 @@ body {
     
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wXTF9fP5zWxhPyQ5TN9miuavAxTUu5a_cw&usqp=CAU"><br><br>
 
-    <a href="http://127.0.0.1:5500/css/Mariam.html/about.html">About Me</a>
+    <a href="http://127.0.0.1:5500/css/Mariam.html/about.html">About-Me</a>
 
-    <a href="http://127.0.0.1:5500/css/Mariam.html/cantact.html">Contact Me</a>
+    <a href="http://127.0.0.1:5500/css/Mariam.html/cantact.html">Contact-Me</a>
 
-    <a href="http://127.0.0.1:5500/css/Mariam.html/program.html">Learn To Program Today</a>
+    <a href="http://127.0.0.1:5500/css/Mariam.html/program.html">Learn-To-Program-Today</a>
 
     <a href="http://127.0.0.1:5500/css/Mariam.html/servicess.html">Services</a>
 
