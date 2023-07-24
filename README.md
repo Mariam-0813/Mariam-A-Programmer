@@ -30,6 +30,44 @@
 rel="stylesheet"
 href="./styles.css"
 />
+
+<style>
+
+body {
+    background-color:palevioletred;
+  }
+  .h1 {
+    font-family: 'Dancing Script', cursive;
+    font-style: italic;
+    color: darkblue !important;
+  } 
+
+  .h2 {
+    font-family: 'Caveat', cursive;
+    color: #ff0000
+  } 
+
+  .h4 {
+    font-family: 'Satisfy',cursive;
+    color: purple;
+  }
+
+  #ol {
+      font-family: 'Helvetica', cursive;
+       color: rgb(0, 255, 170);
+  }
+
+  .ul{
+      font-family: 'Courgette', cursive;
+      color: rgb(225, 65, 65);
+  }
+
+  #p {
+      color: blueviolet;
+      font-family: sans-serif;
+  }
+
+</style>
 </head>
 
 <body>
