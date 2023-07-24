@@ -41,9 +41,12 @@ href="./styles.css"
     
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wXTF9fP5zWxhPyQ5TN9miuavAxTUu5a_cw&usqp=CAU"><br><br>
 
-    <a href="./about.html">About Me</a>
+    <a href="http://127.0.0.1:5500/css/Mariam.html/about.html">About Me</a>
 
-    <a href="./cantact.html">Contact Me</a>
+    <a href="http://127.0.0.1:5500/css/Mariam.html/cantact.html">Contact Me</a>
+
+    <a href="http://127.0.0.1:5500/css/Mariam.html/program.html">Learn To Program Today</a>
+
 
     <h4 class="h4">HAVE YOU EVER THOUGHT WHAT PROGRAMMING REALLY IS?</h4>
     <ol id="ol">
@@ -51,31 +54,6 @@ href="./styles.css"
       <li>Programming can be done using a variety of computer programming languages, such as JavaScript, Python, and C++.</li><br>
       <li>Programming refers to logical process for telling a computer which tasks to a technolto perform in order to solve problems. You can think of programming as a collaboration between humans and computers, in which humans create instructions for a computer to follow (code) in a language computers can understand.</li><br>
     </ol><br>
-
-    <h4 class="h4">WOULD YOU ALSO LIKE TO START PROGRAMMING?</h4> <br>    
-
-        <ol id="ol">
-             
-        <p>Start learning programming for free with:</p><br>
-
-            <li>Khan Academy</li><br>
-            
-            <li>Data Camp</li><br>
-        </ol>
-
-       <a href="https://www.khanacademy.org/">Khan Academy</a><br>
-       <a href="https://www.datacamp.com/">Data Camp</a>
-        <ol id="ol">
-        <p>Start learning payed programming with:</p><br>
-
-            <li>Coursera</li><br>
-
-            <li>Udemy</li><br>
-          </ol>
-
-       <a href="https://www.coursera.org/">Coursera</a><br>
-       <a href="https://www.udemy.com">Udemy</a><br>
-        
 
  <h4 class="h4">HOW MUCH TIME DOES IT TAKE ME TO MAKE A WEBSITE?</h4>
 
@@ -104,4 +82,7 @@ href="./styles.css"
 
  <a href="https://www.youtube.com/watch?v=l3feQr0jjqc">Cartoon</a><br><br>
 
- <a href="https://www.youtube.com/watch?v=4UX-2JhNzOE">Cartoon</a>
+ <a href="https://www.youtube.com/watch?v=4UX-2JhNzOE">Cartoon</a><br><br>
+
+ <h4 class="h4">IF YOU WANT MORE INFORMATION CONTACT ME USING THE LINK I'VE PROVIDED AT THE TOP</h4>
+
