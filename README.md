@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8" />
@@ -47,6 +47,21 @@ body{
     <a href="https://www.youtube.com/watch?v=EpD3kR4zpqI">video</a><br> <br> <br> <br>
 
     <a href="https://www.games.msn.com/game-landing/findcats/default.htm">Game</a><br> <br> <br> <br>
+
+    <a href="https://www.games.msn.com/game-landing/runrabbitrun/default.htm">Game</a><br> <br> <br> <br>
+
+    <a href="https://www.games.msn.com/game-landing/8ballchampion/default.htm">Game</a><br> <br> <br> <br>
+   
+    <a href="https://www.games.msn.com/game-landing/microsoft-bubble/default.htm">Game</a><br> <br> <br> <br>
+
+    <a href="https://www.games.msn.com/game-landing/chess/default.htm">Game</a><br> <br> <br> <br>
+
+    <a href="https://www.games.msn.com/game-landing/texttwist2/default.htm">Game</a><br> <br> <br> <br>
+
+
+
+
+
 
 </body>
 </html>
